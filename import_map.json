@@ -1,5 +1,7 @@
 {
   "imports": {
-    "server": "https://deno.land/std/http/server.ts"
+    "server": "https://deno.land/std@0.126.0/http/server.ts",
+    "nanossr": "https://crux.land/nanossr@0.0.1",
+    "router": "https://crux.land/router@0.0.5"
   }
 }
